@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Informasi teknologi",
+  "author":"ghost",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://selular.id/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
